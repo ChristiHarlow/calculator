@@ -1,0 +1,39 @@
+/* https://coolors.co/35524a-4056f4-eeebd3-b36a5e-f7c548 */
+
+#container {
+    width: 500px;
+    border: 2px;
+    background-color: #729ea1;
+}
+
+h1 {
+    font-family: "Arial Bold", Arial, monospace;
+    font-size: 32px;
+    width: 265px;
+}
+
+#screen {
+    background-color: #729ea1;
+    color: white;
+    font-family: "Arial", Arial, monospace;
+    margin-bottom: 4px;
+    padding: 10px;
+    text-align: right;
+    width: 248px;
+}
+
+button {
+    width: 30px;
+    background-color: #729ea1;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+}
+
+.row {
+    margin-bottom: 4px;
+}
