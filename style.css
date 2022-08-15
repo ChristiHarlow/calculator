@@ -3,7 +3,7 @@
 #container {
     width: 500px;
     border: 2px;
-    background-color: #729ea1;
+    background-color: #9f2771;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h1 {
 }
 
 #screen {
-    background-color: #729ea1;
+    background-color: #9f2771;
     color: white;
     font-family: "Arial", Arial, monospace;
     margin-bottom: 4px;
@@ -24,7 +24,7 @@ h1 {
 
 button {
     width: 30px;
-    background-color: #729ea1;
+    background-color: #9f2771;
     color: white;
     padding: 15px 32px;
     text-align: center;
